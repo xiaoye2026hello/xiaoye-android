@@ -17,12 +17,6 @@
   ],
   "items": [
     {
-      "name": "微信读书",
-      "cat": "cat3",
-      "desc": "阅读与听书，书城资源丰富",
-      "url": "https://weread.qq.com"
-    },
-    {
       "name": "哔哩哔哩",
       "cat": "cat2",
       "desc": "视频社区，学习与娱乐都在这里",
