@@ -15,5 +15,30 @@
       "name": "游戏"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "name": "哔哩哔哩",
+      "cat": "cat2",
+      "desc": "视频社区，学习与娱乐都在这里",
+      "url": "https://www.bilibili.com"
+    },
+    {
+      "name": "网易云音乐",
+      "cat": "cat2",
+      "desc": "音乐播放与歌单推荐",
+      "url": "https://music.163.com"
+    },
+    {
+      "name": "高德地图",
+      "cat": "cat2",
+      "desc": "导航、打车、周边生活服务",
+      "url": "https://www.amap.com"
+    },
+    {
+      "name": "Gitee",
+      "cat": "cat2",
+      "desc": "国内代码托管与协作平台",
+      "url": "https://gitee.com"
+    }
+  ]
 }
